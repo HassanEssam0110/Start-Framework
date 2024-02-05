@@ -64,7 +64,7 @@ export default function Contact() {
           <div>
             <input
               id="userPassword"
-              type="text"
+              type="password"
               placeholder="userPassword"
               name="userPassword"
               className="form-control border-0 border-bottom py-3 position-relative "
